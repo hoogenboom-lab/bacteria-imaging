@@ -1,0 +1,2 @@
+patch_params:
+  max_edge_separation: 27.5       # (nm) When computing Delaunay triangulation, we ignore edges longer than this threshold

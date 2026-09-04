@@ -1,0 +1,14 @@
+# Conda environment used to produce the results in the manuscript.
+#   conda env create -f environment.yml
+#   conda activate porin-patch-analysis
+name: porin-patch-analysis
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12.5
+  - numpy=2.2.3
+  - pandas=2.2.3
+  - shapely=2.1.1
+  - matplotlib=3.10.0
+  - seaborn=0.13.2
+  - pyyaml=6.0.2

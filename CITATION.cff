@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+title: "Nanometer-resolution imaging of living bacteria across species and cellular orientations: OMP-trimer-free region analysis of AFM images"
+message: "If you use this software, please cite both the software and the associated paper."
+type: software
+authors:
+  - given-names: "William"
+    family-names: "Trewby"
+    affiliation: "London Centre for Nanotechnology, University College London"
+    orcid: "https://orcid.org/0000-0002-5319-8618"
+repository-code: "https://github.com/hoogenboom-lab/bacteria-imaging"
+license: MIT
+version: "1.0.0"
+date-released: "2026-09-04"
+# doi: "[ZENODO DOI FOR THE ARCHIVED VERSION]"
+keywords:
+  - atomic force microscopy
+  - bacterial outer membrane
+  - outer membrane proteins
+  - lipopolysaccharide
+  - image analysis
+preferred-citation:
+  type: article
+  title: "Nanometer-resolution imaging of living bacteria across species and cellular orientations"
+  authors:
+    - given-names: "Anna"
+      family-names: "Scheeder"
+    - given-names: "Joanna"
+      family-names: "Szczepaniak"
+    - given-names: "Yulianna"
+      family-names: "Koziy"
+    - given-names: "Naomi"
+      family-names: "Mara Claro De Oliveira"
+    - given-names: "William"
+      family-names: "Trewby"
+    - given-names: "Renata"
+      family-names: "Kaminska"
+    - given-names: "Jeremy"
+      family-names: "Brown"
+    - given-names: "Colin"
+      family-names: "Kleanthous"
+    - given-names: "Bart"
+      family-names: "W. Hoogenboom"
+  journal: "Nature Communications"
+  year: 2026
+  # doi: "[ARTICLE DOI]"

@@ -194,9 +194,7 @@ This code is released under the MIT License — see [LICENSE](LICENSE).
 ## Citation
 
 If you use this code, please cite the manuscript above. Citation metadata for
-the software itself is in [CITATION.cff](CITATION.cff); the archived version of
-this repository corresponding to the published article is available at
-[ZENODO DOI].
+the software itself is in [CITATION.cff](CITATION.cff).
 
 ## Contact
 - Anna Scheeder, a.scheeder@ucl.ac.uk
